@@ -1,0 +1,10 @@
+.titleHome{
+  font-family: monospace;
+    text-align: center;
+  }
+  
+  .imaPika{
+    display: flex;
+    align-items: center;
+  margin-left: 100px;
+  }
